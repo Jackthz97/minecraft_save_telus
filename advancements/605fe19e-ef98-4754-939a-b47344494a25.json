@@ -629,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2023-01-18 23:09:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-12-05 16:43:59 -0500"
@@ -722,7 +728,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2023-01-09 19:03:01 -0500",
+      "minecraft:pillager": "2023-01-18 23:18:20 -0500",
       "minecraft:skeleton": "2022-12-07 16:43:21 -0500",
+      "minecraft:ravager": "2023-01-18 23:33:39 -0500",
       "minecraft:ghast": "2023-01-09 19:09:40 -0500",
       "minecraft:hoglin": "2022-12-30 22:32:23 -0500",
       "minecraft:vindicator": "2023-01-08 15:03:59 -0500",
@@ -881,6 +889,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2023-01-18 23:18:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2023-01-18 23:09:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-12-05 16:31:54 -0500"
@@ -890,6 +910,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2022-12-05 20:01:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2023-01-18 23:09:02 -0500"
     },
     "done": true
   },
@@ -1082,6 +1108,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2022-12-06 11:20:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2023-01-18 23:09:02 -0500"
     },
     "done": true
   },
@@ -1898,6 +1930,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2022-12-07 11:50:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2023-01-18 23:39:58 -0500"
     },
     "done": true
   },
