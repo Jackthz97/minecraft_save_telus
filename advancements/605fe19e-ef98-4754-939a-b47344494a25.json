@@ -743,6 +743,7 @@
       "minecraft:spider": "2022-12-07 11:50:15 -0500",
       "minecraft:creeper": "2022-12-05 16:18:26 -0500",
       "minecraft:evoker": "2023-01-08 15:10:44 -0500",
+      "minecraft:slime": "2023-01-21 21:55:23 -0500",
       "minecraft:phantom": "2022-12-14 14:54:25 -0500",
       "minecraft:zombified_piglin": "2022-12-24 01:02:04 -0500",
       "minecraft:witch": "2022-12-28 17:08:56 -0500",
@@ -1117,6 +1118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2023-01-21 21:55:26 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2023-01-18 23:09:02 -0500"
@@ -1462,6 +1469,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2022-12-08 11:18:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-01-21 21:55:26 -0500"
     },
     "done": true
   },
@@ -3020,6 +3033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2023-01-22 00:22:06 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2022-12-05 19:43:29 -0500"
@@ -3035,6 +3054,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2022-12-19 14:54:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2023-01-21 21:55:26 -0500"
     },
     "done": true
   },
